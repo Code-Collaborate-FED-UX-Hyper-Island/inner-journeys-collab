@@ -1,15 +1,19 @@
 [
 	{
-		"artist": {
-			"artistName": "ArtistName",
-			"artistInfo": "The most popular band in the WORLD!!!!",
-			"artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+		"music": {
+			"musicCover": "cover.img",
+			"musicTitle": "Fia - Shine",
+			"musicVideo": "https://www.youtube.com/watch?v=Jx70OITA2nI"
 		},
-		"concert": {
-			"concertDate": "July 22nd",
-			"concertVenue": "Globen",
-			"ticketPrice": "22 $",
-			"concertInfo": "Welcome to the coolest concert ever in existence!"
+		"music": {
+			"musicCover": "cover.img",
+			"musicTitle": "Kevin James & Susana - Gayatri",
+			"musicVideo": "https://www.youtube.com/watch?v=bDJU4HUrvo8"
+		},
+		"music": {
+			"musicCover": "cover.img",
+			"musicTitle": "Nessi Gomes - As You Will",
+			"musicVideo": "https://www.youtube.com/watch?v=P335ruDKONo"
 		}
 	}
 ]
