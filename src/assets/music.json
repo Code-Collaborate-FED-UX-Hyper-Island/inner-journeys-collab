@@ -1,17 +1,21 @@
 [
 	{
-		"music": {
-			"musicCover": "cover.img",
+		"cover": {
+			"musicCover": "/img/SwiperMusic/fia.png",
 			"musicTitle": "Fia - Shine",
 			"musicVideo": "https://www.youtube.com/watch?v=Jx70OITA2nI"
-		},
-		"music": {
-			"musicCover": "cover.img",
+		}
+	},
+	{
+		"cover": {
+			"musicCover": "/img/SwiperMusic/kevinjames.png",
 			"musicTitle": "Kevin James & Susana - Gayatri",
 			"musicVideo": "https://www.youtube.com/watch?v=bDJU4HUrvo8"
-		},
-		"music": {
-			"musicCover": "cover.img",
+		}
+	},
+	{
+		"cover": {
+			"musicCover": "/img/SwiperMusic/nessigomes.png",
 			"musicTitle": "Nessi Gomes - As You Will",
 			"musicVideo": "https://www.youtube.com/watch?v=P335ruDKONo"
 		}
