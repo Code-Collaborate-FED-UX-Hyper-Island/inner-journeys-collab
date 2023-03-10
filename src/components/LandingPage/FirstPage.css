@@ -1,0 +1,38 @@
+.firstPageContainer {
+  height: 90vh;
+  width: 100vw;
+}
+.titleFirstPage {
+  width: 100vw;
+  margin: auto;
+  margin-top: 150px;
+  font-size: 100px;
+  text-align: center;
+}
+
+.infoFirstPage {
+  width: 60%;
+  margin: auto;
+  margin-top: 60px;
+  font-size: 16px;
+}
+
+.buttonFirstPage {
+  height: 100px;
+  width: 350px;
+  background: linear-gradient(
+    180deg,
+    #4d7cb3 0%,
+    #654d7f 52.52%,
+    rgba(155, 110, 184, 0) 100%
+  );
+  border: 1px solid #000000;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 40px;
+  color: #ffff;
+  font-size: 32px;
+  margin-top: 60px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
