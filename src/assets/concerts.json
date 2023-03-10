@@ -1,0 +1,93 @@
+[
+	{
+		"artist": {
+			"artistName": "Navid Modiri & Gudarna",
+			"artistInfo": "The most popular band in the WORLD!!!!",
+      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+		},
+		"concert": {
+			"concertDate": "July 22nd",
+			"concertVenue": "Globen",
+			"ticketPrice": "22 $",
+			"concertInfo": "Welcome to the coolest concert ever in existence!"
+		}
+	},
+	{
+		"artist": {
+			"artistName": "Kevin James & Susana",
+			"artistInfo": "The most popular band in the WORLD!!!!",
+      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+		},
+		"concert": {
+			"concertDate": "July 22nd",
+			"concertVenue": "Globen",
+			"ticketPrice": "22 $",
+			"concertInfo": "Welcome to the coolest concert ever in existence!"
+		}
+	},
+	{
+		"artist": {
+			"artistName": "Fia",
+			"artistInfo": "The most popular band in the WORLD!!!!",
+      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+		},
+		"concert": {
+			"concertDate": "July 22nd",
+			"concertVenue": "Globen",
+			"ticketPrice": "22 $",
+			"concertInfo": "Welcome to the coolest concert ever in existence!"
+		}
+	},
+	{
+		"artist": {
+			"artistName": "NESSI GOMES",
+			"artistInfo": "The most popular band in the WORLD!!!!",
+      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+		},
+		"concert": {
+			"concertDate": "July 22nd",
+			"concertVenue": "Globen",
+			"ticketPrice": "22 $",
+			"concertInfo": "Nessi är tillbaka för att beröra oss med sin Fado-folkmusik med brittisk progressiv modern inspiration."
+		}
+	},
+	{
+		"artist": {
+			"artistName": "Thomas Di Leva",
+			"artistInfo": "The most popular band in the WORLD!!!!",
+      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+		},
+		"concert": {
+			"concertDate": "July 22nd",
+			"concertVenue": "Globen",
+			"ticketPrice": "22 $",
+			"concertInfo": "Welcome to the coolest concert ever in existence!"
+		}
+	},
+	{
+		"artist": {
+			"artistName": "Dungen",
+			"artistInfo": "The most popular band in the WORLD!!!!",
+      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+		},
+		"concert": {
+			"concertDate": "July 22nd",
+			"concertVenue": "Globen",
+			"ticketPrice": "22 $",
+			"concertInfo": "Welcome to the coolest concert ever in existence!"
+		}
+	},
+	{
+		"artist": {
+			"artistName": "Tame Impala",
+			"artistInfo": "The most popular band in the WORLD!!!!",
+      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+		"concert": {
+			"concertDate": "July 22nd",
+			"concertVenue": "Globen",
+			"ticketPrice": "22 $",
+			"concertInfo": "Welcome to the coolest concert ever in existence!"
+		}
+	}
+]
