@@ -1,21 +1,7 @@
 .hamburgerMenuContainer {
   width: 100vw;
   height: 100vh;
-  animation-duration: 10s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-}
-
-@keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
+  background: radial-gradient(at 80% 10%, #ffff 40%, #db96fa 80%);
 }
 
 .navMenuContainer {
@@ -34,9 +20,9 @@
 .closeIcon {
   height: 45px;
   width: 45px;
-  margin-top: 20px;
   margin-left: 20px;
   cursor: pointer;
+  padding-top: 20px;
 }
 
 .crossLineOne {
