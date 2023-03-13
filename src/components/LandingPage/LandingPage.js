@@ -2,6 +2,7 @@ import React from "react";
 import FirstPage from "./FirstPage";
 import CarouselLandingPage from "./CarouselLandingPage";
 import InfoLandingPage from "./InfoLandingPage";
+import VisionLandingPage from "./VisionLandingPage";
 import Line from "./Line";
 import { useRef } from "react";
 
@@ -23,6 +24,8 @@ function LandingPage() {
         <CarouselLandingPage />
       </div>
       <InfoLandingPage />
+      <Line />
+      <VisionLandingPage />
       <Line />
     </div>
   );
