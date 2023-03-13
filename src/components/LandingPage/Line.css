@@ -1,0 +1,9 @@
+.line {
+  height: 2px;
+  width: 40vw;
+  background-color: #bebdbb;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  align-items: center;
+}

@@ -1,0 +1,31 @@
+.infoContainer {
+  width: 70vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  gap: 40px;
+  justify-content: center;
+  margin: auto;
+}
+
+.infoText {
+  width: 400px;
+  margin-top: 20px;
+}
+
+.infoText h2 {
+  font-size: 110px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.infoText p {
+  font-size: 25px;
+}
+
+.image {
+  width: 400px;
+  object-fit: cover;
+  margin: 0;
+}

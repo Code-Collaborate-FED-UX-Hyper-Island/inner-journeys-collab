@@ -1,6 +1,7 @@
+import CarouselLandingPage from "./CarouselLandingPage";
 import "./FirstPage.css";
 
-function FirstPage() {
+function FirstPage({ button }) {
   return (
     <div className="firstPageContainer">
       <h1 className="titleFirstPage">INNER JOURNEY</h1>
@@ -10,7 +11,7 @@ function FirstPage() {
         hälsa, likaväl som den emotionella och existeniella. Vi är här för att
         tjäna ett skifte till en medveten värld.
       </p>
-      <button className="buttonFirstPage">Börja din resa här</button>
+      {button}
     </div>
   );
 }
