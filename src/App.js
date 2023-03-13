@@ -1,12 +1,14 @@
 import "./App.css";
-import SwiperMusic from "./components/SwiperMusic/SwiperMusic";
+import KKK from "../components/KKK";
+
+// import SwiperMusic from "./components/SwiperMusic/SwiperMusic";
 
 function App() {
-	return (
-		<div className="App">
-			<SwiperMusic />
-		</div>
-	);
+	return;
+	<div className="App">
+		{/* <SwiperMusic /> */}
+		<KKK />
+	</div>;
 }
 
 export default App;

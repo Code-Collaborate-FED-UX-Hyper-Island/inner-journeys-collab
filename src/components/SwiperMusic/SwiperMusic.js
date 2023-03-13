@@ -26,9 +26,12 @@ export const SwiperMusic = () => {
 			slides-per-view="3"
 			navigation="true"
 			pagination="false"
-			autoplay="true"
+			// autoplay="true"
 			loop="true"
-			speed="400"
+			// speed="400"
+			space-between="20"
+			free-mode="true"
+			mousewheel="true"
 		>
 			<swiper-slide>
 				<h2>Slide 1</h2>
