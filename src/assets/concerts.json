@@ -1,48 +1,49 @@
+
 [
 	{
 		"artist": {
 			"artistName": "Navid Modiri & Gudarna",
-			"artistInfo": "The most popular band in the WORLD!!!!",
-      		"artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+			"artistInfo": "Navid Modiri & Gudarna är en musikgrupp med radioprataren och artisten Navid Modiri som förman.",
+      		"artistImage": "../../images/navidmodiri.jpeg"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
 			"concertVenue": ", Globen",
 			"ticketPrice": "22 $",
-			"concertInfo": "Welcome to the coolest concert ever in existence!"
+			"concertInfo": "Navid Modiri & Gudarna är tillbaka!"
 		}
 	},
 	{
 		"artist": {
 			"artistName": "Kevin James & Susana",
-			"artistInfo": "The most popular band in the WORLD!!!!",
-      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+			"artistInfo": "Kevin James is a devotional singer, Shakuhachi flute player, and chant leader from Australia. He travels the world in the spirit of Oneness, with his wife Susana, going where the invitation and heart lead, sharing ancient mantras and chants from various traditions with his own prayers and Heartsongs.",
+      		"artistImage": "../../images/kevinjamessusana.png"
 		},
 		"concert": {
-			"concertDate": "July 22nd",
-			"concertVenue": ", Globen",
+			"concertDate": "April 18th",
+			"concertVenue": ", Stockholm",
 			"ticketPrice": "22 $",
-			"concertInfo": "Welcome to the coolest concert ever in existence!"
+			"concertInfo": "Enjoy an evening of connection and community spirit, singing Heartsongs and Mantras with Australia’s own world travelling chant leader Kevin James Carroll."
 		}
 	},
 	{
 		"artist": {
 			"artistName": "Fia",
-			"artistInfo": "The most popular band in the WORLD!!!!",
-      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+			"artistInfo": "Based in the county of Dalarna, Sweden, Fia Forsström (known mononymously as Fia) is a spiritual singer/songwriter who with her inspirational lyrics and catchy melodies has a unique way of weaving music that empowers the listener to drop deeper into themselves and find their own medicine.",
+      "artistImage": "../../images/fia.png"
 		},
 		"concert": {
-			"concertDate": "July 22nd",
-			"concertVenue": ", Globen",
+			"concertDate": "April 30th",
+			"concertVenue": ", Stockholm",
 			"ticketPrice": "22 $",
-			"concertInfo": "Welcome to the coolest concert ever in existence!"
+			"concertInfo": "Their next tour date in Sweden is at Eric Ericssonhallen."
 		}
 	},
 	{
 		"artist": {
 			"artistName": "NESSI GOMES",
 			"artistInfo": "The most popular band in the WORLD!!!!",
-      		"artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+      		"artistImage": "../../images/nessigomes.png"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
@@ -54,40 +55,40 @@
 	{
 		"artist": {
 			"artistName": "Thomas Di Leva",
-			"artistInfo": "The most popular band in the WORLD!!!!",
-      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+			"artistInfo": "Thomas Di Leva är en svensk sångare, låtskrivare och skådespelare.",
+      "artistImage": "../../images/thomasdileva.png"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
 			"concertVenue": ", Globen",
 			"ticketPrice": "22 $",
-			"concertInfo": "Welcome to the coolest concert ever in existence!"
+			"concertInfo": "Thomas Di Leva fortsätter med sin kritikerrosade David Bowie-turné “Changes” under hösten 2022 och våren 2023. "
 		}
 	},
 	{
 		"artist": {
 			"artistName": "Dungen",
-			"artistInfo": "The most popular band in the WORLD!!!!",
-      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+			"artistInfo": "Dungen är ett svenskt rockband bildat 1999 och baserat i Stockholm.",
+      "artistImage": "../../images/dungen.png"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
 			"concertVenue": ", Globen",
 			"ticketPrice": "22 $",
-			"concertInfo": "Welcome to the coolest concert ever in existence!"
+			"concertInfo": "Dungen är tillbaka!"
 		}
 	},
 	{
 		"artist": {
 			"artistName": "Tame Impala",
-			"artistInfo": "The most popular band in the WORLD!!!!",
-      "artistImage": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29uY2VydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+			"artistInfo": "Tame Impala is the psychedelic music project of Australian multi-instrumentalist Kevin Parker.",
+      "artistImage": "../../images/tameimpala.jpeg"
     },
 		"concert": {
 			"concertDate": "July 22nd",
 			"concertVenue": ", Globen",
 			"ticketPrice": "22 $",
-			"concertInfo": "Welcome to the coolest concert ever in existence!"
+			"concertInfo": "Tame Impala är tillbaka!"
 		}
 	}
 ]

@@ -2,6 +2,7 @@ import { useRef, useEffect } from "react";
 import { register } from "swiper/element/bundle";
 import CarouselCard from "./CarouselCard";
 import './Carousel.css';
+import concerts from '../../assets/concerts.json';
 
 register();
 
@@ -32,13 +33,13 @@ export const Carousel = () => {
         //pauseOnMouseEnter="true"
         >
             <swiper-slide>
-                <CarouselCard />
+                <CarouselCard src={concerts[1].artist.artistImage} artistName={concerts[1].artist.artistName} concertInfo={concerts[1].concert.concertInfo} />
             </swiper-slide>
             <swiper-slide>
-                <CarouselCard />
+                <CarouselCard src={concerts[3].artist.artistImage} artistName={concerts[3].artist.artistName} concertInfo={concerts[3].concert.concertInfo} />
             </swiper-slide>
             <swiper-slide>
-                <CarouselCard />
+                <CarouselCard src={concerts[4].artist.artistImage} artistName={concerts[4].artist.artistName} concertInfo={concerts[4].concert.concertInfo} />
             </swiper-slide>
             ...
         </swiper-container>

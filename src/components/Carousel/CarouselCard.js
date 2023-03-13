@@ -1,18 +1,18 @@
 import "./CarouselCard.css";
 import concerts from "../../assets/concerts.json";
 
-function CarouselCard() {
+function CarouselCard({ src, artistName, concertInfo }) {
     return (
         <div className="card-container">
             <img
                 className="CarouselImage"
-                src={concerts[3].artist.artistImage}
+                src={src}
                 alt="ConcertImage"
             />
             <div className="CarouselInfoContainer">
                 <div className="CarouselArtistInfo">
-                    <h3>{concerts[3].artist.artistName}</h3>
-                    <p>{concerts[3].concert.concertInfo}</p>
+                    <h3>{artistName}</h3>
+                    <p>{concertInfo}</p>
                 </div>
                 <button className="CarouselButton">Biljetter</button>
             </div>

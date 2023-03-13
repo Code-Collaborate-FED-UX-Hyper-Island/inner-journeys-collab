@@ -3,27 +3,30 @@ import './ConcertCard.css';
 import concerts from '../../assets/concerts.json';
 
 
-const ConcertCard = () => {
+const ConcertCard = ({ src, artistName, concertDate, concertVenue }) => {
     return (
-
-        <div className='ConcertCard-container'>
-            <div className='ConcertCard-ArtistName'>
-                <img
-                    className="ConcertCard-image"
-                    src={concerts[0].artist.artistImage}
-                    alt="ConcertImage"
-                />
-                <h4>{concerts[0].artist.artistName}</h4>
-            </div>
-            <div className='ConcertCard-DatePlace'>
-                <div className='ConcertCard-info'>
-                    <p>{concerts[0].concert.concertDate}</p>
-                    <p> {concerts[0].concert.concertVenue}</p>
+        <div>
+            <div className='ConcertCard-container'>
+                <div className='ConcertCard-ArtistName'>
+                    <img
+                        className="ConcertCard-image"
+                        src={src}
+                        alt="ConcertImage"
+                    />
+                    <h4>{artistName}</h4>
                 </div>
-                <button className='ConcertCard-btn'>Biljeter</button>
+                <div className='ConcertCard-DatePlace'>
+                    <div className='ConcertCard-info'>
+                        <p>{concertDate}</p>
+                        <p> {concertVenue}</p>
+                    </div>
+                    <button className='ConcertCard-btn'>Biljetter</button>
+                </div>
             </div>
-        </div>
-    )
+
+
+
+        </div>)
 }
 
 export default ConcertCard;
