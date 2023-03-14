@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Ludvig von Bahr",
+		"title": "CEO & Founder, The Leaps kursledare",
+		"image": "./ImagesTeam/Ludvig.jpg"
+	},
+	{
+		"name": "Matilda von Bahr",
+		"title": "Struktur- och organisation",
+		"image": "./ImagesTeam/Matilda.jpg"
+	},
+	{
+		"name": "Vit Lastovka",
+		"title": "Webdesign and analytics, executive assistant",
+		"image": "./ImagesTeam/Vit.jpg"
+	},
+	{
+		"name": "Staffan Åkerblom",
+		"title": "Leadership labs",
+		"image": "./ImagesTeam/Staffan.jpg"
+	},
+	{
+		"name": "Pontus Holmgren",
+		"title": "The leap",
+		"image": "./ImagesTeam/Pontus.jpg"
+	},
+	{
+		"name": "Premleena Wettergran",
+		"title": "The leap, The deep leap",
+		"image": "./ImagesTeam/Premleena.jpg"
+	},
+	{
+		"name": "Daniel Mueller-Gonzalez",
+		"title": "The ice and breath",
+		"image": "./ImagesTeam/Daniel.jpg"
+	},
+	{
+		"name": "Roxie Gloria",
+		"title": "Food and beverage manager",
+		"image": "./ImagesTeam/NoImage.jpg"
+	},
+	{
+		"name": "Victoria",
+		"title": "CFO",
+		"image": "./ImagesTeam/NoImage.jpg"
+	}
+]
