@@ -1,0 +1,53 @@
+.card-container {
+    height: 70vh;
+    width: 100vw;
+}
+
+.CarouselImage {
+    width: 100vw;
+    height: 70vh;
+    object-fit: cover;
+}
+
+.CarouselInfoContainer {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    width: 30vw;
+    height: 25vh;
+    color: #ffff;
+}
+
+.CarouselInfoContainer p {
+    font-size: 18px;
+}
+
+.CarouselInfoContainer h3 {
+    font-size: 36px;
+}
+
+.CarouselArtistInfo {
+    text-align: left;
+    width: 30vw;
+    height: 18vh;
+}
+
+.CarouselArtistInfo p {
+    height: 35px;
+    width: 255px;
+    margin-top: 14px;
+}
+
+.CarouselButton {
+    width: 100px;
+    height: 40px;
+    border-radius: 12px;
+    padding: 6px 12px;
+    background-color: #0067c7;
+    color: #ffff;
+    font-size: 22px;
+    border: 0px;
+    cursor: pointer;
+    position: absolute;
+    left: 0%;
+}
