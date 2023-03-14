@@ -1,0 +1,64 @@
+.events2Container {
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
+
+.events2Top {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+}
+
+.events2Bottom {
+	display: flex;
+	flex-direction: row-reverse;
+	margin-top: 50px;
+}
+
+.events2bigText {
+	font-family: "Spectral", serif;
+	font-size: 160px;
+	text-align: left;
+}
+
+.events2bigText h2 {
+	padding: 0;
+	margin: 0;
+	line-height: 1;
+}
+
+.events2Description {
+	font-size: 28px;
+	font-family: "Spectral", serif;
+	text-align: left;
+	width: 687px;
+}
+
+.events2Description p {
+	margin-top: 100px;
+	margin-right: 50px;
+}
+
+.events2Button {
+	font-size: 24px;
+	width: 188px;
+	height: 62px;
+	border-radius: 100px;
+	border: none;
+	background-color: #d68e22;
+	transition-duration: 0.5s;
+}
+
+.events2Button:hover {
+	font-size: 24px;
+	width: 188px;
+	height: 62px;
+	border-radius: 100px;
+	border: none;
+	background-color: #feb74c;
+}
+
+.events2Line {
+	margin: 200px;
+	width: 80%;
+}
