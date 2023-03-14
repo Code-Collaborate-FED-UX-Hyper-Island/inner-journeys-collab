@@ -19,8 +19,8 @@ function App() {
       <ConcertsContainer />
     	<Events1 />
 			<Events2 />
-    </div>
-  );
+		</div>
+	);
 }
 
 export default App;
