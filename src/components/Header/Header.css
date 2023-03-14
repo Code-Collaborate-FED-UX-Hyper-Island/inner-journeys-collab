@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  width: 100vw;
+  height: 95px;
+  position: sticky;
+  align-items: center;
+  background: linear-gradient(
+    180deg,
+    rgba(101, 77, 127, 0),
+    rgba(155, 110, 184, 0.37)
+  );
+}
+
+.logo {
+  margin: auto;
+  font-size: 50px;
+}
+
+.hamburger {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.lineOne,
+.lineThree {
+  height: 5px;
+  width: 45px;
+  background-color: black;
+}
+
+.lineTwo {
+  height: 5px;
+  width: 30px;
+  background-color: black;
+}
