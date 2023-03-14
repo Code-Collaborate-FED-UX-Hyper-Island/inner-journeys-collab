@@ -1,5 +1,6 @@
 import React from "react";
 import "./HamburgerMenu.css";
+import imageHamburgerMenu from "./moon 1.jpg";
 
 const HamburgerMenu = ({ setOpenHamburger }) => {
   return (
@@ -14,7 +15,7 @@ const HamburgerMenu = ({ setOpenHamburger }) => {
         <div>Konserter</div>
         <div>Kontakta oss</div>
       </div>
-      <img src="" alt="" />
+      <img src={imageHamburgerMenu} className="imageHamburger" alt="" />
     </div>
   );
 };

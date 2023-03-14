@@ -1,7 +1,7 @@
 .hamburgerMenuContainer {
   width: 100vw;
   height: 100vh;
-  background: radial-gradient(at 80% 10%, #ffff 40%, #db96fa 80%);
+  /*background: radial-gradient(at 80% 10%, #ffff 40%, #db96fa 80%);*/
 }
 
 .navMenuContainer {
@@ -41,4 +41,12 @@
   position: absolute;
   transform: rotate(-45deg);
   margin-top: 20px;
+}
+
+.imageHamburger {
+  width: 550px;
+  position: absolute;
+  left: 50%;
+  top: 15%;
+  z-index: -1;
 }
