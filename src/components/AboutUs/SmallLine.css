@@ -1,0 +1,9 @@
+.smallLine {
+  height: 2px;
+  width: 250px;
+  background-color: #bebdbb;
+  align-items: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

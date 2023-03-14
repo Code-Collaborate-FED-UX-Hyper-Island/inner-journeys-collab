@@ -1,0 +1,11 @@
+.titleMeetUs {
+  font-size: 100px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.swiperContainer {
+  width: 80vw;
+  margin: auto;
+  cursor: grab;
+}

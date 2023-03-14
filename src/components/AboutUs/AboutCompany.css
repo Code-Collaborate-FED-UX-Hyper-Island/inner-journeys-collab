@@ -1,0 +1,35 @@
+.aboutCompanyContainer {
+  width: 70vw;
+  margin: auto;
+}
+
+.aboutCompanyTitle {
+  font-size: 100px;
+  text-align: center;
+}
+
+.infoCompanyContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.aboutCompanyText {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.aboutCompanyImage {
+  width: 700px;
+  object-fit: contain;
+  border-radius: 20px;
+}
+
+.aboutCompanyText h3 {
+  font-size: 30px;
+}
+
+.aboutCompanyText p {
+  font-size: 20px;
+}
