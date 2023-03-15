@@ -6,8 +6,8 @@ import LandingPage from "./components/LandingPage/LandingPage";
 import Carousel from './components/Carousel/Carousel';
 import ConcertsContainer from './components/ConcertsContainer/ConcertsContainer';
 import { useState } from "react";
-import Events1 from "./Components/Events1/Events1";
-import Events2 from "./Components/Events2/Events2";
+import Events1 from "./components/Events1/Events1";
+import Events2 from "./components/Events2/Events2";
 import AboutUs from "./components/AboutUs/AboutUs";
 
 
@@ -20,11 +20,11 @@ function App() {
       <LandingPage />
       <Carousel />
       <ConcertsContainer />
-    	<Events1 />
-			<Events2 />
+      <Events1 />
+      <Events2 />
       <AboutUs />
-		</div>
-	);
+    </div>
+  );
 }
 
 export default App;
