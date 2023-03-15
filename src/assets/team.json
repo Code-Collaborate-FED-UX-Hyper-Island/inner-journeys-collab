@@ -10,38 +10,38 @@
 		"image": "./ImagesTeam/Matilda.jpg"
 	},
 	{
-		"name": "Vit Lastovka",
-		"title": "Webdesign and analytics, executive assistant",
-		"image": "./ImagesTeam/Vit.jpg"
-	},
-	{
-		"name": "Staffan Åkerblom",
-		"title": "Leadership labs",
-		"image": "./ImagesTeam/Staffan.jpg"
-	},
-	{
-		"name": "Pontus Holmgren",
-		"title": "The leap",
-		"image": "./ImagesTeam/Pontus.jpg"
-	},
-	{
-		"name": "Premleena Wettergran",
-		"title": "The leap, The deep leap",
-		"image": "./ImagesTeam/Premleena.jpg"
-	},
-	{
-		"name": "Daniel Mueller-Gonzalez",
-		"title": "The ice and breath",
-		"image": "./ImagesTeam/Daniel.jpg"
-	},
-	{
-		"name": "Roxie Gloria",
-		"title": "Food and beverage manager",
+		"name": "Namnet",
+		"title": "Jobtitel/Beskrivning",
 		"image": "./ImagesTeam/NoImage.jpg"
 	},
 	{
-		"name": "Victoria",
-		"title": "CFO",
+		"name": "Namnet",
+		"title": "Jobtitel/Beskrivning",
+		"image": "./ImagesTeam/NoImage.jpg"
+	},
+	{
+		"name": "Namnet",
+		"title": "Jobtitel/Beskrivning",
+		"image": "./ImagesTeam/NoImage.jpg"
+	},
+	{
+		"name": "Namnet",
+		"title": "Jobtitel/Beskrivning",
+		"image": "./ImagesTeam/NoImage.jpg"
+	},
+	{
+		"name": "Namnet",
+		"title": "Jobtitel/Beskrivning",
+		"image": "./ImagesTeam/NoImage.jpg"
+	},
+	{
+		"name": "Namnet",
+		"title": "Jobtitel/Beskrivning",
+		"image": "./ImagesTeam/NoImage.jpg"
+	},
+	{
+		"name": "Namnet",
+		"title": "Jobtitel/Beskrivning",
 		"image": "./ImagesTeam/NoImage.jpg"
 	}
 ]
