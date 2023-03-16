@@ -9,6 +9,7 @@ import { useState } from "react";
 import Events1 from "./components/Events1/Events1";
 import Events2 from "./components/Events2/Events2";
 import AboutUs from "./components/AboutUs/AboutUs";
+import VideoCarousel from "./components/VideoCarousel/VideoCarousel";
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Events1 />
       <Events2 />
       <AboutUs />
+      <VideoCarousel />
     </div>
   );
 }
