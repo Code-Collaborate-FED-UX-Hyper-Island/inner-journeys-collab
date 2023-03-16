@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Header.css";
 
 const Header = ({ setOpenHamburger }) => {
@@ -8,7 +9,9 @@ const Header = ({ setOpenHamburger }) => {
         <div className="lineTwo"></div>
         <div className="lineThree"></div>
       </div>
-      <div className="logo">INNER JOURNEY</div>
+      <Link to={`home`} className="logo">
+        INNER JOURNEY
+      </Link>
     </header>
   );
 };
