@@ -5,6 +5,7 @@ import InfoLandingPage from "./InfoLandingPage";
 import VisionLandingPage from "./VisionLandingPage";
 import Line from "./Line";
 import { useRef } from "react";
+import ConcertsContainer from "../ConcertsContainer/ConcertsContainer";
 
 function LandingPage() {
   const ref = useRef();
@@ -24,6 +25,8 @@ function LandingPage() {
         <CarouselLandingPage />
       </div>
       <InfoLandingPage />
+      <Line />
+      <ConcertsContainer />
       <Line />
       <VisionLandingPage />
       <Line />
