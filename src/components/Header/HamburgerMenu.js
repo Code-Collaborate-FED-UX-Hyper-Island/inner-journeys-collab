@@ -1,6 +1,7 @@
 import React from "react";
 import "./HamburgerMenu.css";
 import imageHamburgerMenu from "./moon 1.jpg";
+import { Link } from "react-router-dom";
 
 const HamburgerMenu = ({ setOpenHamburger }) => {
   return (
@@ -10,10 +11,18 @@ const HamburgerMenu = ({ setOpenHamburger }) => {
         <div className="crossLineTwo"></div>
       </div>
       <div className="navMenuContainer">
-        <div>Om oss</div>
-        <div>Events och Retreats</div>
-        <div>Konserter</div>
-        <div>Kontakta oss</div>
+        <Link to={`about`} onClick={() => setOpenHamburger(false)}>
+          Om oss
+        </Link>
+        <Link to={`events`} onClick={() => setOpenHamburger(false)}>
+          Events och Retreats
+        </Link>
+        <Link to={`concerts`} onClick={() => setOpenHamburger(false)}>
+          Konserter
+        </Link>
+        <Link to={`contact`} onClick={() => setOpenHamburger(false)}>
+          Kontakta oss
+        </Link>
       </div>
       <img src={imageHamburgerMenu} className="imageHamburger" alt="" />
     </div>

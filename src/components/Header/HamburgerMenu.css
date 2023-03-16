@@ -1,7 +1,7 @@
 .hamburgerMenuContainer {
   width: 100vw;
   height: 100vh;
-  /*background: radial-gradient(at 80% 10%, #ffff 40%, #db96fa 80%);*/
+  background-color: white;
 }
 
 .navMenuContainer {
@@ -15,6 +15,7 @@
   top: 50%;
   transform: translate(-50%, -50%);
   font-size: 32px;
+  z-index: 1;
 }
 
 .closeIcon {
@@ -48,5 +49,5 @@
   position: absolute;
   left: 50%;
   top: 15%;
-  z-index: -1;
+  z-index: 0;
 }

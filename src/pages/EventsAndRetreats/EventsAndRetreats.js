@@ -8,11 +8,9 @@ import Footer from "../../components/Footer/Footer";
 const EventsAndRetreats = () => {
   return (
     <div>
-      <Header />
       <Events1 />
       <Line />
       <Events2 />
-      <Footer />
     </div>
   );
 };

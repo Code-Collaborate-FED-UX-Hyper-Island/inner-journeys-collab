@@ -8,10 +8,8 @@ import Footer from "../../components/Footer/Footer";
 const Concerts = () => {
   return (
     <div>
-      <Header />
       <Carousel />
       <ConcertContainer />
-      <Footer />
     </div>
   );
 };
