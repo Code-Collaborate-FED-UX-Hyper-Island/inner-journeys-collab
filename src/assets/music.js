@@ -10,14 +10,14 @@ const music = [
 		id: 1,
 		musicCover: "/img/SwiperMusic/kevinjames.png",
 		musicTitle: "Fia - Shine",
-		musicVideo: "https://www.youtube.com/watch?v=bDJU4HUrvo8",
+		musicVideo: "https://www.youtube.com/embed/bDJU4HUrvo8",
 		second: false,
 	},
 	{
 		id: 2,
 		musicCover: "/img/SwiperMusic/nessigomes.png",
 		musicTitle: "Nessi Gomes - As You Will",
-		musicVideo: "https://www.youtube.com/watch?v=P335ruDKONo",
+		musicVideo: "https://www.youtube.com/embed/P335ruDKONo",
 		ground: false,
 	},
 ];
