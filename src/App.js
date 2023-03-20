@@ -1,3 +1,6 @@
+
+import React from 'react'
+import VideoCarousel from './components/VideoCarousel/VideoCarousel'
 import "./App.css";
 import LandingPageMain from "./pages/LandingPage/LandingPageMain";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
@@ -45,5 +48,3 @@ const router = createBrowserRouter([
 function App() {
 	return <RouterProvider router={router} />;
 }
-
-export default App;
