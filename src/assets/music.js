@@ -9,7 +9,7 @@ const music = [
 	{
 		id: 1,
 		musicCover: "/img/SwiperMusic/kevinjames.png",
-		musicTitle: "Fia - Shine",
+		musicTitle: "Pia - Pooo",
 		musicVideo: "https://www.youtube.com/embed/bDJU4HUrvo8",
 		second: false,
 	},
