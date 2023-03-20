@@ -15,7 +15,7 @@ const HamburgerMenu = ({ setOpenHamburger }) => {
           Om oss
         </Link>
         <Link to={`events`} onClick={() => setOpenHamburger(false)}>
-          Events och Retreats
+          Events & Retreats
         </Link>
         <Link to={`concerts`} onClick={() => setOpenHamburger(false)}>
           Konserter

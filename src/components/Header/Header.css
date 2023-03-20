@@ -3,15 +3,16 @@
   width: 100vw;
   height: 95px;
   position: sticky;
+  top: 0;
   align-items: center;
-  background: linear-gradient(
-    180deg,
-    rgba(101, 77, 127, 0),
-    rgba(155, 110, 184, 0.37)
-  );
+  background: linear-gradient(180deg, #eee8f2, #dbbff9);
+  z-index: 2;
 }
 
 .logo {
+  font-family: "Baskerville";
+  font-style: normal;
+  font-weight: 400;
   margin: auto;
   font-size: 50px;
 }

@@ -14,7 +14,7 @@ function LandingPage() {
 
   const scrollButton = (
     <button className="buttonFirstPage" onClick={handleClickScroll}>
-      Börja din resa här
+      Börja din resa nu
     </button>
   );
 

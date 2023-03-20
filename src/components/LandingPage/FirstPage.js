@@ -1,4 +1,3 @@
-import CarouselLandingPage from "./CarouselLandingPage";
 import "./FirstPage.css";
 
 function FirstPage({ button }) {

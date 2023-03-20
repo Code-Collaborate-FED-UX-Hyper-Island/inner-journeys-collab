@@ -11,6 +11,7 @@ const EventsAndRetreats = () => {
       <Events1 />
       <Line />
       <Events2 />
+      <Line />
     </div>
   );
 };
