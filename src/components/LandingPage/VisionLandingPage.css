@@ -9,17 +9,19 @@
 }
 
 .visionTextBox {
+  font-family: "Baskerville";
+  font-style: normal;
   color: white;
   width: 50vw;
   display: flex;
   flex-direction: column;
   position: relative;
-  top: 180px;
+  gap: 40px;
+  top: 220px;
   left: 30px;
 }
 .visionTextBox h3 {
   font-size: 60px;
-  margin-bottom: 0;
 }
 
 .visionTextBox p {

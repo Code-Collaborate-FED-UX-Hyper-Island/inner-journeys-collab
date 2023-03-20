@@ -1,10 +1,9 @@
-
 [
 	{
 		"artist": {
 			"artistName": "Navid Modiri & Gudarna",
 			"artistInfo": "Navid Modiri & Gudarna är en musikgrupp med radioprataren och artisten Navid Modiri som förman.",
-      		"artistImage": "../../images/navidmodiri.jpeg"
+			"artistImage": "../../images/navidmodiri.jpeg"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
@@ -17,20 +16,20 @@
 		"artist": {
 			"artistName": "Kevin James & Susana",
 			"artistInfo": "Kevin James is a devotional singer, Shakuhachi flute player, and chant leader from Australia. He travels the world in the spirit of Oneness, with his wife Susana, going where the invitation and heart lead, sharing ancient mantras and chants from various traditions with his own prayers and Heartsongs.",
-      		"artistImage": "../../images/kevinjamessusana.png"
+			"artistImage": "../../images/kevinjamessusana.png"
 		},
 		"concert": {
 			"concertDate": "April 18th",
 			"concertVenue": ", Stockholm",
 			"ticketPrice": "22 $",
-			"concertInfo": "Enjoy an evening of connection and community spirit, singing Heartsongs and Mantras with Australia’s own world travelling chant leader Kevin James Carroll."
+			"concertInfo": "Enjoy an evening of connection and community spirit, singing Heartsongs and Mantras."
 		}
 	},
 	{
 		"artist": {
 			"artistName": "Fia",
 			"artistInfo": "Based in the county of Dalarna, Sweden, Fia Forsström (known mononymously as Fia) is a spiritual singer/songwriter who with her inspirational lyrics and catchy melodies has a unique way of weaving music that empowers the listener to drop deeper into themselves and find their own medicine.",
-      "artistImage": "../../images/fia.png"
+			"artistImage": "../../images/fia.png"
 		},
 		"concert": {
 			"concertDate": "April 30th",
@@ -43,7 +42,7 @@
 		"artist": {
 			"artistName": "NESSI GOMES",
 			"artistInfo": "The most popular band in the WORLD!!!!",
-      		"artistImage": "../../images/nessigomes.png"
+			"artistImage": "../../images/nessigomes.png"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
@@ -56,7 +55,7 @@
 		"artist": {
 			"artistName": "Thomas Di Leva",
 			"artistInfo": "Thomas Di Leva är en svensk sångare, låtskrivare och skådespelare.",
-      "artistImage": "../../images/thomasdileva.png"
+			"artistImage": "../../images/thomasdileva.png"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
@@ -69,7 +68,7 @@
 		"artist": {
 			"artistName": "Dungen",
 			"artistInfo": "Dungen är ett svenskt rockband bildat 1999 och baserat i Stockholm.",
-      "artistImage": "../../images/dungen.png"
+			"artistImage": "../../images/dungen.png"
 		},
 		"concert": {
 			"concertDate": "July 22nd",
@@ -82,8 +81,8 @@
 		"artist": {
 			"artistName": "Tame Impala",
 			"artistInfo": "Tame Impala is the psychedelic music project of Australian multi-instrumentalist Kevin Parker.",
-      "artistImage": "../../images/tameimpala.jpeg"
-    },
+			"artistImage": "../../images/tameimpala.jpeg"
+		},
 		"concert": {
 			"concertDate": "July 22nd",
 			"concertVenue": ", Globen",
