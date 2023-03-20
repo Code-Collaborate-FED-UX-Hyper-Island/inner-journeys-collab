@@ -1,0 +1,19 @@
+.employeeCardContainer {
+    width: 250px;
+    text-align: center;
+    padding-left: 80px;
+    padding-bottom: 80px;
+}
+
+.employeeImage {
+    border-radius: 50%;
+}
+
+.employeeName {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.employeeTitle {
+    font-size: 20px;
+}

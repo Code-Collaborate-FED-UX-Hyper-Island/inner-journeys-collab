@@ -1,0 +1,29 @@
+.visionContainer {
+  width: 70vw;
+  height: 600px;
+  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI2MTlmNzEzODk2YmVjZWEzYjU5NjBjNjIzNTJmMGE0YjMxMDhlMCZjdD1n/l3vR9AY7Wjee8T9As/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  border-radius: 30px;
+}
+
+.visionTextBox {
+  font-family: "Baskerville";
+  font-style: normal;
+  color: white;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  gap: 40px;
+  top: 220px;
+  left: 30px;
+}
+.visionTextBox h3 {
+  font-size: 60px;
+}
+
+.visionTextBox p {
+  font-size: 30px;
+}

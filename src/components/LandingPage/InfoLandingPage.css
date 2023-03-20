@@ -1,0 +1,35 @@
+.infoContainer {
+  width: 70vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  gap: 40px;
+  justify-content: center;
+  margin: auto;
+}
+
+.infoText {
+  font-family: "Baskerville";
+  font-style: normal;
+  width: 500px;
+  margin-top: 20px;
+}
+
+.infoText h2 {
+  font-size: 180px;
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.infoText p {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.image {
+  width: 500px;
+  object-fit: cover;
+  margin: 0;
+}
