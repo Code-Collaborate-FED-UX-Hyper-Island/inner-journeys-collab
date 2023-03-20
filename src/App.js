@@ -1,14 +1,11 @@
-import "./App.css";
-import sadasd from "../components/";
+import React from 'react'
+import Test from './components/Test'
+import VideoCarousel from './components/VideoCarousel'
 
-// import SwiperMusic from "./components/SwiperMusic/SwiperMusic";
-
-function App() {
-	return;
-	<div className="App">
-		{/* <SwiperMusic /> */}
-		< />
-	</div>;
+export default function App() {
+  return (
+    <div>
+      <VideoCarousel />
+    </div>
+  )
 }
-
-export default App;
