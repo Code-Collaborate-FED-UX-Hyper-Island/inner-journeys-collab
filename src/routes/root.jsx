@@ -11,7 +11,9 @@ export default function Root() {
       {!openHamburger && <Header setOpenHamburger={setOpenHamburger} />}
       {openHamburger && <HamburgerMenu setOpenHamburger={setOpenHamburger} />}
 			<Outlet />
-      <Footer />
+      <Footer phoneNumber="0723132469" />
     </div>
   );
 }
+
+
