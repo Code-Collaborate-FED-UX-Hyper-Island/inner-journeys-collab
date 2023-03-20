@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import music from "../assets/music";
+import music from "../../assets/music";
 import { useRef, useEffect } from "react";
 import { register } from "swiper/element/bundle";
 import "./VideoCarousel.css";
@@ -11,11 +11,11 @@ export default function VideoCarousel() {
 		// listen for Swiper events using addEventListener
 		swiperElRef.current.addEventListener("progress", (e) => {
 			const [swiper, progress] = e.detail;
-			console.log(progress);
+			/* console.log(progress); */
 		});
 
 		swiperElRef.current.addEventListener("slidechange", (e) => {
-			console.log("slide changed");
+			/* console.log("slide changed"); */
 		});
 	}, []);
 
@@ -50,7 +50,7 @@ export default function VideoCarousel() {
 			</div>
 			<swiper-container
 				ref={swiperElRef}
-				slides-per-view="1"
+				slides-per-view="3"
 				navigation="true"
 				pagination="true"
 			>
