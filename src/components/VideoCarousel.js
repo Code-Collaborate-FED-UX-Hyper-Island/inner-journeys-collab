@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import music from "../assets/music";
 import { useRef, useEffect } from "react";
 import { register } from "swiper/element/bundle";
+import "./VideoCarousel.css";
 
 export default function VideoCarousel() {
 	const swiperElRef = useRef(null);
@@ -34,17 +35,19 @@ export default function VideoCarousel() {
 	const firstImage = music[0].musicVideo;
 	const [image, setImage] = useState(firstImage);
 	return (
-		<div className="caoruselContainer">
+		<div className="carouselContainer">
 			{/* <img src={image} alt="Logo" />;<br></br> */}
-			<iframe
-				width="560"
-				height="315"
-				src={image}
-				title="YouTube video player"
-				frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-				allowfullscreen
-			></iframe>
+			<div className="videoFrame">
+				<iframe
+					width="560"
+					height="315"
+					src={image}
+					title="YouTube video player"
+					frameborder="0"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+					allowfullscreen
+				></iframe>
+			</div>
 			<swiper-container
 				ref={swiperElRef}
 				slides-per-view="1"

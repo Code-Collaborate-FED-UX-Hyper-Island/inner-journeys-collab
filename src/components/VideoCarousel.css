@@ -1,0 +1,9 @@
+.carouselContainer {
+	max-width: 1000px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.videoFrame {
+	margin: 30px;
+}
