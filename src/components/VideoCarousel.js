@@ -18,6 +18,19 @@ export default function VideoCarousel() {
 		});
 	}, []);
 
+  const populate = music.map((x) => (
+    <swiper-slide key={x.musicVideo}>
+      	<img
+						onClick={() => {
+							setImage(x.musicVideo);
+						}}
+						src={x.musicCover}
+						alt="Logo"
+					/>
+          <h2>{x.musicTitle}</h2>
+    </swiper-slide>
+  ));
+
 	const firstImage = music[0].musicVideo;
 	const [image, setImage] = useState(firstImage);
 	return (
@@ -38,39 +51,9 @@ export default function VideoCarousel() {
 				navigation="true"
 				pagination="true"
 			>
-				<swiper-slide>
-					<img
-						onClick={() => {
-							setImage(music[0].musicVideo);
-						}}
-						src={music[0].musicCover}
-						alt="Logo"
-					/>
-					;
-				</swiper-slide>
-
-				<swiper-slide>
-					<img
-						onClick={() => {
-							setImage(music[1].musicVideo);
-						}}
-						src={music[1].musicCover}
-						alt="Logo"
-					/>
-					;
-				</swiper-slide>
-
-				<swiper-slide>
-					<img
-						onClick={() => {
-							setImage(music[2].musicVideo);
-						}}
-						src={music[2].musicCover}
-						alt="Logo"
-					/>
-					;
-				</swiper-slide>
+        {populate}
 			</swiper-container>
+
 		</div>
 	);
 }
