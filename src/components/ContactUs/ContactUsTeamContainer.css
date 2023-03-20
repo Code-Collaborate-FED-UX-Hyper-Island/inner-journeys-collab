@@ -1,13 +1,16 @@
 .titleContactUsTeam {
-    font-size: 48px;
-    text-align: center;
-    margin-bottom: 80px;
-    padding-top: 50px;
+  font-family: "Baskerville";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 80px;
+  padding-top: 50px;
 }
 
 .swiperContainer {
-    width: 80vw;
-    margin: auto;
-    cursor: grab;
-    padding-bottom: 50px;
+  width: 80vw;
+  margin: auto;
+  cursor: grab;
+  padding-bottom: 50px;
 }

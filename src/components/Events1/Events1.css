@@ -1,62 +1,60 @@
 .events1Container {
-	margin-top: 200px;
-	margin-bottom: 200px;
+  width: 70vw;
+  margin: auto;
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
 
 .events1Top {
-	display: flex;
-	align-items: flex-start;
-	justify-content: flex-end;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
 }
 
 .events1Bottom {
-	display: flex;
-	margin-top: 50px;
+  display: flex;
+  margin-top: 50px;
 }
 
 .bigText {
-	font-size: 160px;
-	font-family: "Times New Roman", Times, serif;
+  font-size: 160px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .bigText h2 {
-	font-family: "Spectral", serif;
-	padding: 0;
-	margin: 0;
-	line-height: 1;
+  font-family: "Spectral", serif;
+  padding: 0;
+  margin-top: 60px;
+  line-height: 1;
 }
 
 .events1Description {
-	font-size: 28px;
-	font-family: "Spectral", serif;
-	text-align: left;
-	width: 687px;
+  font-size: 28px;
+  font-family: "Spectral", serif;
+  text-align: left;
+  width: 687px;
 }
 
 .events1Description p {
-	margin-top: 100px;
+  margin-top: 80px;
+  margin-bottom: 40px;
 }
 
 .events1Button {
-	font-size: 24px;
-	width: 188px;
-	height: 62px;
-	border-radius: 100px;
-	border: none;
-	background-color: #d68e22;
-	transition-duration: 0.5s;
+  font-size: 24px;
+  width: 188px;
+  height: 62px;
+  border-radius: 100px;
+  border: none;
+  background-color: #d68e22;
+  transition-duration: 0.5s;
 }
 
 .events1Button:hover {
-	font-size: 24px;
-	width: 188px;
-	height: 62px;
-	border-radius: 100px;
-	border: none;
-	background-color: #feb74c;
-}
-
-.events1Line {
-	margin: 200px;
-	width: 80%;
+  font-size: 24px;
+  width: 188px;
+  height: 62px;
+  border-radius: 100px;
+  border: none;
+  background-color: #feb74c;
 }
