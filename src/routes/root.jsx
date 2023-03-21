@@ -11,7 +11,7 @@ export default function Root() {
       {!openHamburger && <Header setOpenHamburger={setOpenHamburger} />}
       {openHamburger && <HamburgerMenu setOpenHamburger={setOpenHamburger} />}
 			<Outlet />
-      <Footer phoneNumber="070 - 759 02 40" mail="matilda@bjornbacka.se" adress="Ensta 5, 147 91 <br> Grödinge"  />
+      <Footer phoneNumber="070 - 759 02 40" mail="matilda@bjornbacka.se" adress="Ensta 5, 147 91 Grödinge"  />
     </div>
   );
 }
